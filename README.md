@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://53714w46j091.github.io/assets/me.png">
+  <h1>Hi There 👋 My name is Setiawan Jodi</h1>
+</div>
 
-<!--
-**53714W46J091/53714W46J091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+A student who likes anime, computers science, programming, and electronics engineering. Or fiddling with stuff until it broke.
+### Area of Specialty
+None. Still learning.
+### Learning Status
+Semi-Inactive. Because I don't have a lot of spare time to learn.
+### Completed Course
+Front-end Web Development, some Back-end Web Development, Python
+### Note
+Even though I completed some web development courses but still I'm cannot be confident with my skill. Maybe in the future, I'm will come back with more knowledge and skill.
