@@ -7,9 +7,9 @@
 A student who likes anime, computers science, programming, and electronics engineering. Or fiddling with stuff until it broke.
 ### Area of Specialty
 None. Still learning.
+### Area of Interest
+Web Development, JavaScript, Back-end Development, Software Development
 ### Learning Status
 Semi-Inactive. Because I don't have a lot of spare time to learn.
 ### Completed Course
 Front-end Web Development, some Back-end Web Development, Python
-### Note
-Even though I completed some web development courses but still I'm cannot be confident with my skill. Maybe in the future, I'm will come back with more knowledge and skill.
