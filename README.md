@@ -10,6 +10,6 @@ None. Still learning.
 ### Area of Interest
 Web Development, JavaScript, Back-end Development, Software Development
 ### Learning Status
-Inactive. Because I don't have a lot of spare time to learn. Also I'm focusing on learning new language this time.
+Inactive. Because I don't have a lot of spare time to learn.
 ### Completed Course
 Front-end Web Development, some Back-end Web Development, Python
