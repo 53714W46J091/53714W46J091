@@ -10,6 +10,6 @@ None. Still learning.
 ### Area of Interest
 Web Development, JavaScript, Back-end Development, Software Development
 ### Learning Status
-Learning react <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="20px"> and japanese language. And how to get decent skill on javascript and css.
+Inactive, not enough motivation ~Learning react <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="20px"> and japanese language. And how to get decent skill on javascript and css.~
 ### Completed Course
 Front-end Web Development, some Back-end Web Development, Python
